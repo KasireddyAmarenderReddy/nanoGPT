@@ -1,4 +1,4 @@
-# Learning GitHub - The content in this project is not Amar'.
+# mLearning GitHub - The content in this project is not Amar'.
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
