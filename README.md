@@ -1,4 +1,5 @@
-#  modification# Learning GitHub - The content in this project is not Amar'.
+# mLearning GitHub - The content in this project is not Amar'.
+# Branch Amar
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
